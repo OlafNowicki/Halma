@@ -1,0 +1,4 @@
+Sat Jun  9 13:44:54 2018
+ Wygrana: olaf: 1 Przegrana: tomek: 0
+Sat Jun  9 13:56:27 2018
+ Wygrana: tomek: 1 Przegrana: olaf: 0
